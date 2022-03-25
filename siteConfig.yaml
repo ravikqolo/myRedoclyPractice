@@ -16,7 +16,7 @@ logo:
 toc:
   enable: true
 oasDefinitions:
-  # petstore: ./openapi/petstore.yaml
+  petstore: ./openapi/petstore.yaml
   qolo-qa: https://api.redoc.ly/registry/bundle/qolo/QoloQA/v1/openapi.yaml
   qolo-stag: https://api.redoc.ly/registry/bundle/qolo/QoloStage/v2/openapi.yaml
   # add links to definitions in our API registry by using a fully qualified URL.
