@@ -2,9 +2,9 @@ apiDefinitions:
   main: https://api.redoc.ly/registry/bundle/qolo/QoloQA/v1/openapi.yaml
   test: https://api.redoc.ly/registry/bundle/qolo/QoloStage/v2/openapi.yaml
 lint:
-  decorators:
-    info-description-override:
-      description: I am over rriding
+  # decorators:
+    # info-description-override:
+    #   description: I am over rriding
   extends:
     - recommended
   rules:
