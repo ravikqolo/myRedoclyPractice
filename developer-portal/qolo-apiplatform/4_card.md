@@ -15,5 +15,5 @@ Card on Qolo platform are represented by &#39;card&#39; object and comprises of 
 
 A typical Card lifecycle in a card based Program may be depicted as:
 
-![Shape2](RackMultipart20220324-4-btw0jy_html_4984936c79e099e6.gif)
+![path](../images/CardManagement.png)
 

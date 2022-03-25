@@ -12,6 +12,10 @@ export const theme = {
   //   medium: '900px',
   //   large: '1200px',
   // },
+  logo: {
+    height: '3rem',
+  },
+
   colors: {
     // tonalOffset: 0.2,
     primary: {

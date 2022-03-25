@@ -2,7 +2,8 @@
 
 The diagram below summarizes the Qolo platform structure and the relation between its various components.
 
-![](RackMultipart20220324-4-btw0jy_html_7add8aeed6efeea4.png)
+<!-- ![](RackMultipart20220324-4-btw0jy_html_7add8aeed6efeea4.png) -->
+![path](../images/platformstructure.png)
 
 The Qolo platform structure allows for flexible implementation of your unique program.
 

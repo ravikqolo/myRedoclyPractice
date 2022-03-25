@@ -11,8 +11,9 @@ linkChecker:
 logo:
   # image: ./images/logo.png
   # altText: Redocly Training
-  image: ./images/2022QoloLogo3D.png
+  image: ./images/2022QoloLogo2D.png
   altText: Qolo API Training
+  href: https://qolo.io/
 toc:
   enable: true
 oasDefinitions:

@@ -42,11 +42,11 @@ training:
   #   expanded: false
   #   pages:
   #     - page: openapi/reference.page.yaml/*
-  - group: Product Guide
+  
+  - group: Qolo Platform Guide
+    page: developer-portal/qolo-apiplatform/0_qoloplatform.md
     expanded: false
-    pages:
-      - label: Qolo Platform Structure
-        page: developer-portal/qolo-apiplatform/0_qoloplatform.md
+    pages:      
       - group: Program
         page: developer-portal/qolo-apiplatform/1_program.md
         expanded: false
@@ -74,7 +74,7 @@ training:
           - label: Transaction History
             page: developer-portal/qolo-apiplatform/3.3_txnhistory.md              
       - group: Card
-        page: developer-portal/4_card.md
+        page: developer-portal/qolo-apiplatform/4_card.md
         expanded: false
         pages:
           - label: Create Card
@@ -97,7 +97,8 @@ training:
         pages:
           - label: Create Transfer
             page: developer-portal/qolo-apiplatform/6.1_createtransfer.md  
-     
+    
+  - page: developer-portal/qolo-apiplatform/gettingstarted.md
 
   - group: Qolo API reference
     expanded: false
