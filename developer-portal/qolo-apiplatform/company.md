@@ -1,0 +1,4 @@
+# Company
+
+The Qolo company hierarchy allows users to add multiple sub-companies to their account. [API reference](https://devapi.qolopay.com/index.html#operation/CreateCompany)
+

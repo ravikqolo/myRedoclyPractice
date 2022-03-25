@@ -1,0 +1,21 @@
+apiDefinitions:
+  main: https://api.redoc.ly/registry/bundle/qolo/QoloQA/v1/openapi.yaml
+  test: https://api.redoc.ly/registry/bundle/qolo/QoloStage/v2/openapi.yaml
+lint:
+  decorators:
+    info-description-override:
+      description: I am over rriding
+  extends:
+    - recommended
+  rules:
+    tag-description: off
+    operation-summary: error
+    no-unresolved-refs: error
+    no-unused-components: error
+    operation-2xx-response: error
+    operation-operationId: error
+    operation-singular-tag: error
+    no-enum-type-mismatch: error
+    no-identical-paths: error
+    no-ambiguous-paths: error
+      

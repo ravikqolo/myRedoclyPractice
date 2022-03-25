@@ -1,0 +1,20 @@
+
+type: reference-docs
+versions:
+  - definitionId: qolo-qa
+    id: qav1
+    title: Qolo QA API
+    isDefault: false
+  - definitionId: qolo-stag
+    id: stagv1
+    title: Qolo STAGE API
+    isDefault: true
+
+settings:
+  jsonSampleExpandLevel: 'all'
+  noAutoAuth: false
+  generateCodeSamples:
+    languages:
+      - lang: curl
+      - lang: JavaScript
+      - lang: Node.js

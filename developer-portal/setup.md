@@ -1,4 +1,4 @@
-# Install the developer portal
+# Update the developer portal
 
 ## Clone
 
