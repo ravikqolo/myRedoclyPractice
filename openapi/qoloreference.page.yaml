@@ -1,14 +1,15 @@
 
 type: reference-docs
-versions:
-  - definitionId: qolo-qa
-    id: qav1
-    title: Qolo QA API
-    isDefault: false
-  - definitionId: qolo-stag
-    id: stagv1
-    title: Qolo STAGE API
-    isDefault: true
+definitionId: qolo-qa
+# versions:
+#   - definitionId: qolo-qa
+#     id: qav1
+#     title: Qolo QA API
+#     isDefault: false
+#   - definitionId: qolo-stag
+#     id: stagv1
+#     title: Qolo STAGE API
+#     isDefault: true
 
 settings:
   jsonSampleExpandLevel: 'all'
