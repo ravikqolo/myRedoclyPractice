@@ -100,7 +100,7 @@ training:
     
   - page: developer-portal/qolo-apiplatform/gettingstarted.md
 
-  - group: Qolo API reference
+  - group: Qolo API Reference
     expanded: false
     pages:
       - page: openapi/qoloreference.page.yaml/*

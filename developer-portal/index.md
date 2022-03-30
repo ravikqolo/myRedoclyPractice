@@ -6,7 +6,7 @@ title: Welcome
 
 Greetings!
 
-Welcome to Qolo’s API/documentation portal. Here you can learn about our platform in more detail. On the left hand side you will see two categories: Qolo Platform Guide and Qolo API Reference.
+Welcome to Qolo’s API portal. Here you can learn about our platform in more detail. On the left hand side you will see two categories: Qolo Platform Guide and Qolo API Reference.
 
 Our Qolo Platform Guide outlines our platform’s structure and the relationship between its various components. You can count on us for the platform, solution and expertise you need to solve your most pressing payments needs.
 
