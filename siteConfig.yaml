@@ -1,6 +1,6 @@
 meta:
-  title: Qolo API Training
-  description: The best API documentation generator ever.
+  title: Qolo API
+  description: The Qolo API Developer Portal.
   siteUrl: https://developer-portal-starter.redoc.ly
   keywords: redocly developer portal, api portal starter, api reference docs
   lang: en-US
@@ -12,7 +12,7 @@ logo:
   # image: ./images/logo.png
   # altText: Redocly Training
   image: ./images/2022QoloLogo2D.png
-  altText: Qolo API Training
+  altText: Qolo API Dev Portal
   href: https://qolo.io/
 toc:
   enable: true
@@ -40,7 +40,7 @@ nav:
   #   icon: ./images/redocly-icon-white.png
   #   href: https://redoc.ly/docs/developer-portal/introduction/
 
-  - search: true
+  - search: false
 
 footer:
   copyrightText: Copyright © Qolo 2019-2022. All right reserved.
